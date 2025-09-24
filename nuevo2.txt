@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 echo "hola2"
-=======
-echo "hola"
->>>>>>> ed6b9d5 (agrege los dos archivos hola1 y hola2)
